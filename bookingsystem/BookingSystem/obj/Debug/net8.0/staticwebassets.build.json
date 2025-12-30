@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4U6/lRZmqIJdOdb9/nbAiV5LiVDxuDCBjVeUHpGhZfc=",
+  "Hash": "JE8mNI5kRkAyRnFWVfId8m/uH+rMaTi48A6m4+1p9Eg=",
   "Source": "BookingSystem",
   "BasePath": "_content/BookingSystem",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookingSystem/wwwroot",
       "Source": "BookingSystem",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/wwwroot/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/",
       "BasePath": "_content/BookingSystem",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/bundle/BookingSystem.styles.css",
+      "Identity": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/bundle/BookingSystem.styles.css",
       "SourceId": "BookingSystem",
       "SourceType": "Computed",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "BookingSystem.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/bundle/BookingSystem.styles.css"
+      "OriginalItemSpec": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/bundle/BookingSystem.styles.css"
     },
     {
-      "Identity": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/BookingSystem.bundle.scp.css",
+      "Identity": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/BookingSystem.bundle.scp.css",
       "SourceId": "BookingSystem",
       "SourceType": "Computed",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "BookingSystem.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/BookingSystem.bundle.scp.css"
+      "OriginalItemSpec": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/BookingSystem.bundle.scp.css"
     },
     {
-      "Identity": "/home/axel/bookingsystem/BookingSystem/wwwroot/app.css",
+      "Identity": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/app.css",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/wwwroot/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/home/axel/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/wwwroot/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/home/axel/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/wwwroot/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/axel/bookingsystem/BookingSystem/wwwroot/favicon.png",
+      "Identity": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/favicon.png",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/axel/bookingsystem/BookingSystem/wwwroot/",
+      "ContentRoot": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

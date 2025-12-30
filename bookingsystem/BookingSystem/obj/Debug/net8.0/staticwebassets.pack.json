@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/home/axel/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/BookingSystem.bundle.scp.css",
+      "Id": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/Debug/net8.0/scopedcss/projectbundle/BookingSystem.bundle.scp.css",
       "PackagePath": "staticwebassets/BookingSystem.bundle.scp.css"
     },
     {
-      "Id": "/home/axel/bookingsystem/BookingSystem/wwwroot/app.css",
+      "Id": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/home/axel/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/home/axel/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/axel/bookingsystem/BookingSystem/wwwroot/favicon.png",
+      "Id": "/home/axel/bookingrepo/bookingsystem/BookingSystem/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

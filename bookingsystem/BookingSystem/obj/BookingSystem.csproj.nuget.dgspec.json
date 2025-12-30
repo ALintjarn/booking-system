@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/axel/bookingsystem/BookingSystem/BookingSystem.csproj": {}
+    "/home/axel/bookingrepo/bookingsystem/BookingSystem/BookingSystem.csproj": {}
   },
   "projects": {
-    "/home/axel/bookingsystem/BookingSystem/BookingSystem.csproj": {
+    "/home/axel/bookingrepo/bookingsystem/BookingSystem/BookingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/axel/bookingsystem/BookingSystem/BookingSystem.csproj",
+        "projectUniqueName": "/home/axel/bookingrepo/bookingsystem/BookingSystem/BookingSystem.csproj",
         "projectName": "BookingSystem",
-        "projectPath": "/home/axel/bookingsystem/BookingSystem/BookingSystem.csproj",
+        "projectPath": "/home/axel/bookingrepo/bookingsystem/BookingSystem/BookingSystem.csproj",
         "packagesPath": "/home/axel/.nuget/packages/",
-        "outputPath": "/home/axel/bookingsystem/BookingSystem/obj/",
+        "outputPath": "/home/axel/bookingrepo/bookingsystem/BookingSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/axel/.nuget/NuGet/NuGet.Config"
